@@ -19,6 +19,7 @@
     if (self = [super initWithStyle:style reuseIdentifier:reuseIdentifier]) {
         self.contentView.backgroundColor = [UIColor yellowColor];
         [self createUI];
+        //test 
     }
     return self;
 }
