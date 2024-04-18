@@ -20,7 +20,6 @@
 		F533346A2BC6745F0028F4E5 /* CellAutoLayoutHeightUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F53334692BC6745F0028F4E5 /* CellAutoLayoutHeightUITests.m */; };
 		F533346C2BC6745F0028F4E5 /* CellAutoLayoutHeightUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F533346B2BC6745F0028F4E5 /* CellAutoLayoutHeightUITestsLaunchTests.m */; };
 		F533347A2BC674CB0028F4E5 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F53334792BC674CB0028F4E5 /* CustomCell.m */; };
-		F53334EC2BCE572A0028F4E5 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = F53334EB2BCE572A0028F4E5 /* PrivacyInfo.xcprivacy */; };
 		F8132E1F39AE37FFA05E319D /* Pods_CellAutoLayoutHeight_CellAutoLayoutHeightUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3425FEAD3A59D253AF60696D /* Pods_CellAutoLayoutHeight_CellAutoLayoutHeightUITests.framework */; };
 /* End PBXBuildFile section */
 
@@ -69,7 +68,6 @@
 		F533346B2BC6745F0028F4E5 /* CellAutoLayoutHeightUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CellAutoLayoutHeightUITestsLaunchTests.m; sourceTree = "<group>"; };
 		F53334782BC674CB0028F4E5 /* CustomCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CustomCell.h; sourceTree = "<group>"; };
 		F53334792BC674CB0028F4E5 /* CustomCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
-		F53334EB2BCE572A0028F4E5 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		FF394FD9E14B48C6DB7E0F7A /* Pods_CellAutoLayoutHeightTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CellAutoLayoutHeightTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -127,7 +125,6 @@
 		F53334372BC6745E0028F4E5 = {
 			isa = PBXGroup;
 			children = (
-				F53334EB2BCE572A0028F4E5 /* PrivacyInfo.xcprivacy */,
 				F53334422BC6745E0028F4E5 /* CellAutoLayoutHeight */,
 				F533345E2BC6745F0028F4E5 /* CellAutoLayoutHeightTests */,
 				F53334682BC6745F0028F4E5 /* CellAutoLayoutHeightUITests */,
@@ -294,7 +291,6 @@
 			files = (
 				F53334532BC6745F0028F4E5 /* LaunchScreen.storyboard in Resources */,
 				F53334502BC6745F0028F4E5 /* Assets.xcassets in Resources */,
-				F53334EC2BCE572A0028F4E5 /* PrivacyInfo.xcprivacy in Resources */,
 				F533344E2BC6745E0028F4E5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
